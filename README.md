@@ -1,4 +1,4 @@
-This is a fork ofrthe enviro-monitor python script from roscoe81 
+This is a fork of the enviro-monitor python script from roscoe81 
 Goal is to simplify for the use with only the Enviro+ hat on a pi zero W and add a built-in web visualization capability.
 
 
